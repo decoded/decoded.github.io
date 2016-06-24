@@ -15,5 +15,11 @@ url: "http://open.decoded.com" # the base hostname & protocol for your site
 twitter_username: DecodedCo
 github_username:  DecodedCo
 
+# theme settings
+paginate:     1
+# Gems
+gems:
+  - jekyll-paginate
+
 # Build settings
 markdown: kramdown
